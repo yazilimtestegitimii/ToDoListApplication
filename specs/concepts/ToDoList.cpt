@@ -1,0 +1,66 @@
+#<url> adresine gidilir
+*<url> anasayfasi acilir
+* "3" saniye bekle
+*"buton" elementi var mi
+* "3" saniye bekle
+
+#Listenin bos oldugu kontrol edilir
+*"buton" element listesi bos mu
+* "3" saniye bekle
+
+#<item> itemi eklenir
+*"buton" elementi var mi
+* "3" saniye bekle
+* "inputToDo" yeni todo ekle <item>
+* "3" saniye bekle
+
+#<item> iteminin eklendigi kontrol edilir
+* "butonYazi" elementi var mi
+* "3" saniye bekle
+*"todoControl" todo var mi <item>
+* "3" saniye bekle
+
+#Listede <text1> ve <text2> iteminin oldugu kontrol edilir
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+* "3" saniye bekle
+*"butonYazi" element listesinde <text1> yoksa "inputToDo" elementine ekle
+* "3" saniye bekle
+*"butonYazi" element listesinde <text2> yoksa "inputToDo" elementine ekle
+
+#Listedeki <text> iteminin radio butonuna tikla
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+* "3" saniye bekle
+*"butonYazi" listesindeki <text> iteminin "radioButon" elementine tikla
+* "3" saniye bekle
+
+#Listede <text> iteminin isaretli oldugu kontrol edilir
+*"1" saniye bekle
+*"butonYazi" element listesinde <text> yoksa "inputToDo" elementine ekle
+* "3" saniye bekle
+*"butonYazi" listesindeki <text> isaretli degilse "radioButon" isaretle
+* "3" saniye bekle
+
+#Listedeki <text> itemi isaretlendi mi
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+* "3" saniye bekle
+*"butonYazi" listesindeki <text> isaretli mi
+* "3" saniye bekle
+
+#Listedeki <text> itemi isaretsiz mi
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+*"butonYazi" listesindeki <text> isaretsiz mi
+
+#Listedeki <text> iteminin silme butonuna tikla
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+*"1" saniye bekle
+*"butonYazi" listesindeki <text> iteminin "silmeButonu" elementine tikla
+
+#Listedeki <text> silindi mi
+*"1" saniye bekle
+* "butonYazi" elementi var mi
+*"butonYazi" elementinde <text> silindi mi

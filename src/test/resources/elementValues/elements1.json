@@ -1,0 +1,37 @@
+[
+  {
+    "key": "buton",
+    "value":"/html/body/section/header/input",
+    "type": "xpath"
+  },
+  {
+    "key": "todoList1",
+    "value": "/html/body/section/section/ul/li",
+    "type": "xpath"
+  },
+  {
+    "key": "butonYazi",
+    "value": "todo",
+    "type": "className"
+  },
+  {
+    "key": "inputToDo",
+    "value": "//input[@class='new-todo']",
+    "type": "xpath"
+  },
+  {
+    "key": "todoControl",
+    "value": "/html/body/section/section/ul/li/div/label",
+    "type": "xpath"
+  },
+  {
+    "key": "radioButon",
+    "value": "toggle",
+    "type": "className"
+  },
+  {
+    "key": "silmeButonu",
+    "value": "destroy",
+    "type": "className"
+  }
+]
