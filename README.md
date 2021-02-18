@@ -1,2 +1,5 @@
-#todomvc.com-automation
-# https://todomvc.com/examples/vue/ - automation with gauge
+# todomvc.com-automation
+
+https://todomvc.com/examples/vue/ - automation with gauge
+
+Cansu Bursalı
